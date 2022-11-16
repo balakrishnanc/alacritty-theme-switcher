@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- mode: python; coding: utf-8; fill-column: 80; -*-
 """Switches alacritty color themes.
 """
